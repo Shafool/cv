@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Soy Gian Carlo Orcotoma
+description: Mi nombre es Gian Carlo Orcotoma Mormontoy, vivo en Cusco - Perú ytengo 22 años. Soy desarrollador móvil y diseñador gráfico, me encanta crear cosas 😉, te invito a seguir leyendo conocerme más a continuación.
+url: https://shafool.github.io/cv
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: shafool
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Gian Orcotoma
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/shafool
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Gian Carlo Orcotoma Mormontoy
+  url: https://github.com/shafool/
+  email: giancarlozklm2015@gmail.com
