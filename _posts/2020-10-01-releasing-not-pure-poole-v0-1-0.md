@@ -5,7 +5,9 @@ author: Songzi Vong
 tags:
 - jekyll theme
 - jekyll
-date: 2020-10-01 13:56 +0800
+date: 2020-09-29 23:18 +0800
+start_date: 2019-01-01
+end_date: 2022-01-30
 ---
 The Jekyll theme **Not Pure Poole** v0.1.0 was released!
 
