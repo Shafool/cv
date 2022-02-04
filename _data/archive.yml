@@ -1,9 +1,9 @@
-- type: proyectos
-  title: Proyectos
-  url: /proyectos/
+- type: dates
+  title: Dates
+  url: /dates/
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: educación
-  title: Educación
-  url: /educación/
+- type: tags
+  title: Tags
+  url: /tags/

@@ -2,6 +2,13 @@
   <div class="home-header-bar">
     {% if site.data.archive %}
     <ul class="home-header-menu pure-menu-list">
+      {%- for nav in site.data.navigation -%}
+        <li class="navigation-item">
+          <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a>
+        </li>
+      {%- endfor -%}
+
+
       {% for item in site.data.archive %}
         <li class="pure-menu-item">
           <a href="{{ item.url | relative_url }}" class="pure-menu-link {% if page.url == item.url %}current-item{% endif %}"">{{ item.title }}</a>
