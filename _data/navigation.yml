@@ -1,6 +1,11 @@
-- title: Inicio
+- type: inicio
+  title: Inicio
   url: /
-- title: Mi Trabajo
+
+- type: trabajo
+  title: Mi Trabajo
   url: /trabajo
-- title: Proyectos personales
+
+- type: proyectos
+  title: Proyectos personales
   url: /proyectos
