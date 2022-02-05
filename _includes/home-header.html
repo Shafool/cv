@@ -7,8 +7,6 @@
           <a href="{{ nav.url | relative_url }}" class="pure-menu-link {% if page.url == nav.url %}current-item{% endif %}"">{{ nav.title | escape}}</a>
         </li>
       {%- endfor -%}
-
-
       {% for item in site.data.archive %}
         <li class="pure-menu-item">
           <a href="{{ item.url | relative_url }}" class="pure-menu-link {% if page.url == item.url %}current-item{% endif %}"">{{ item.title }}</a>

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Jonay - Ropa Deportiva
-tags: [Diseño]
-math: false
+tags: [trabajo, diseño]
 date: 2020-09-29 23:18 +0800
 start_date: 2019-01-01
 end_date: 2022-01-30

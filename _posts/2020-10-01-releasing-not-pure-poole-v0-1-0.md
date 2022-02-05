@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
-tags:
-- jekyll theme
-- jekyll
+title: MI PROYECTOOO
+tags: [proyecto, diseño]
 date: 2020-09-29 23:18 +0800
 start_date: 2019-01-01
 end_date: 2022-01-30

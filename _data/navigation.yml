@@ -1,6 +1,6 @@
 - title: Inicio
   url: /
-- title: Mis Proyectos
+- title: Mi Trabajo
+  url: /Trabajo
+- title: Proyectos personales
   url: /proyectos
-- title: Certificaciones
-  url: /certificaciones
